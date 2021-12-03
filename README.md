@@ -1,4 +1,4 @@
-# gitskills  ---关于git的一些常用命令
+# GitSkills  ---关于git的一些常用命令
 
 -   可能遇到的陌生英语单词
 
@@ -15,24 +15,22 @@
 
     -   `<file>`{=html} 可以替换成文件名。比如readme.txt
 
-        -   ![](https://api2.mubu.com/v3/document_image/e1656584-abc5-4c62-85a2-757bc07d1475-11752736.jpg)
+         ![](https://api2.mubu.com/v3/document_image/e1656584-abc5-4c62-85a2-757bc07d1475-11752736.jpg)
 
-        -   ![](https://api2.mubu.com/v3/document_image/458c81b5-17c9-446e-8166-7ba832160246-11752736.jpg)
+         ![](https://api2.mubu.com/v3/document_image/458c81b5-17c9-446e-8166-7ba832160246-11752736.jpg)
 
     -   git
         commit命令，-m后面输入的是本次提交的说明（相当于备注），可以输入任意内容，当然最好是有意义的，这样你就能从历史记录里方便地找到改动记录。
 
     -   实例
 
-        -   ![](https://api2.mubu.com/v3/document_image/3dac8298-0b69-4b2c-a546-9c0d12e28ded-11752736.jpg)
+         ![](https://api2.mubu.com/v3/document_image/3dac8298-0b69-4b2c-a546-9c0d12e28ded-11752736.jpg)
 
 -   git commit -m \"文件名\" 该命令把文件提交到仓库 \<相当于线上>
 
 -   git status 命令可以让我们查看仓库当前的状态
 
-    -   
-
-        -   ![](https://api2.mubu.com/v3/document_image/e163d884-a2a7-4fbb-845c-eac9d05b6fed-11752736.jpg)
+        ![](https://api2.mubu.com/v3/document_image/e163d884-a2a7-4fbb-845c-eac9d05b6fed-11752736.jpg)
 
 -   git diff 可以让我们查看difference，能看具体修改了什么内容。
 
@@ -60,15 +58,11 @@
 
     -   使用git add 后
 
-        -   
-
-            -   ![](https://api2.mubu.com/v3/document_image/38fe8ebf-beb2-48ab-9b2c-143ac3240e85-11752736.jpg)
+       ![](https://api2.mubu.com/v3/document_image/38fe8ebf-beb2-48ab-9b2c-143ac3240e85-11752736.jpg)
 
     -   使用git commit 后
 
-        -   
-
-            -   ![](https://api2.mubu.com/v3/document_image/17adfbab-03b7-4589-9f16-046692f0199d-11752736.jpg)
+       ![](https://api2.mubu.com/v3/document_image/17adfbab-03b7-4589-9f16-046692f0199d-11752736.jpg)
 
 -   管理修改
 
@@ -275,9 +269,7 @@
 
     -   忽略某些文件时，需要编写.gitignore；
 
-        -   
-
-            -   ![](https://api2.mubu.com/v3/document_image/5fead668-eb5c-4a8e-bf39-685064fa930f-11752736.jpg)
+      ![](https://api2.mubu.com/v3/document_image/5fead668-eb5c-4a8e-bf39-685064fa930f-11752736.jpg)
 
     -   .gitignore文件本身要放到版本库里，并且可以对.gitignore做版本管理！
 

@@ -26,11 +26,10 @@
 
          ![](https://api2.mubu.com/v3/document_image/3dac8298-0b69-4b2c-a546-9c0d12e28ded-11752736.jpg)
 
--   git commit -m \"文件名\" 该命令把文件提交到仓库 \<相当于线上>
+-   ```git commit -m \"文件名\" 该命令把文件提交到仓库 \<相当于线上>```
 
--   git status 命令可以让我们查看仓库当前的状态
-
-        ![](https://api2.mubu.com/v3/document_image/e163d884-a2a7-4fbb-845c-eac9d05b6fed-11752736.jpg)
+-   git status 命令可以让我们查看仓库当前的状态.
+         ![](https://api2.mubu.com/v3/document_image/e163d884-a2a7-4fbb-845c-eac9d05b6fed-11752736.jpg)
 
 -   git diff 可以让我们查看difference，能看具体修改了什么内容。
 
